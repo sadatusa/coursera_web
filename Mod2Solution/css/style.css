@@ -52,7 +52,7 @@ h1 {
   padding: 0px;
   border: 1px solid black;
   width: calc(33% - 20px);;
-  height: 110px;
+  height: 115px;
   margin : 10px;
   float:left;
     }
@@ -74,7 +74,7 @@ h1 {
   padding: 0px;
   border: 1px solid black;
   width: calc(50% - 20px);
-  height: 110px;
+  height: 115px;
   margin : 10px;
   float:left;
     }
@@ -95,7 +95,7 @@ h1 {
   padding: 0px;
   border: 1px solid black;
   width: auto;
-  height: 110px;
+  height: 115px;
   margin : 10px;
   float:left;
     }
